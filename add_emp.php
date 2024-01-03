@@ -122,7 +122,7 @@
 
     <div class="row">
         <div class="col-sm-12">
-        <p class="back-link">Developed By Prem Chand Saini</p>
+        <p class="back-link">Developed By Ghamdan</p>
         </div>
     </div>
 

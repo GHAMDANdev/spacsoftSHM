@@ -1,15 +1,15 @@
 **Database Name: hotelms**
 
-**Developed by Ajit Jain, Visraman, Prem Chand Saini**
+**Developed by ghamdan,  , Ghamdan**
 
 **Recommended PHP Version 5.6.3 and 7.4.12**
 
 
 **Login Details**
 
-username: christine / christine@gmail.com
+username: ghamdan / ghamdan@gmail.com
 password: 201452064
 
 
-Username: harryden / harryden@gmail.com
+Username: moatn / moatn@gmail.com
 Password : 201452030
